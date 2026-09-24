@@ -1,7 +1,7 @@
 # This program is not menu driven
 
 # public p and g 
-p = 42
+p = 23
 g = 5
 
 # generating individual secret key for sender and reciever 
